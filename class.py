@@ -7,15 +7,9 @@ lis = [[
 
 import numpy as np 
 
-#arr = np.array(lis)
+arr = np.array(lis)
 
 lis = np.random.randint((0,18,(2,2)))
 
 print(lis)
 
-
-
-#pip install
-#pip install numpy
-#pip install pandas
-#pip install pyplot
